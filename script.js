@@ -1,1 +1,1 @@
-// js code 
+// javascript code
